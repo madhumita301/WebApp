@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="TestSuite" time="23.516" tests="5" errors="0" skipped="0" failures="0">
-  <properties>
+  <properties> 
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_60\jre\bin"/>
     <property name="java.vm.version" value="25.60-b23"/>
